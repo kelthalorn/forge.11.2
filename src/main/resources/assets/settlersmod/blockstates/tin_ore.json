@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"type=overworld": { "model": "settlersmod:tin_ore_overworld" },
+		"type=nether": { "model": "settlersmod:tin_ore_nether" },
+		"type=end": { "model": "settlersmod:tin_ore_end" }
+	}
+}

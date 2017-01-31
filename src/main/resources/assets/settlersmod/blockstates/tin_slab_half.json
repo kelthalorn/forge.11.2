@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "settlersmod:tin_slab_bottom" },
+        "half=top": { "model": "settlersmod:tin_slab_top" }
+    }
+}

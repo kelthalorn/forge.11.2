@@ -1,0 +1,8 @@
+{
+	"parent": "settlersmod:block/machine",
+	"textures": {
+		"side": "settlersmod:blocks/block_breaker_side_basic",
+		"front": "settlersmod:blocks/block_breaker_front_basic_activated",
+		"alt": "settlersmod:blocks/machine_basic"
+	}
+}

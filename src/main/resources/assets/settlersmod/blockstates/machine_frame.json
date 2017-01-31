@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"type=basic": { "model": "settlersmod:machine_frame_basic" },
+		"type=advanced": { "model": "settlersmod:machine_frame_advanced" }
+	}
+}
